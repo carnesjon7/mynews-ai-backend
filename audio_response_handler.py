@@ -1,0 +1,1 @@
+# Placeholder content for audio_response_handler.py
