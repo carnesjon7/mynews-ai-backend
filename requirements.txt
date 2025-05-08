@@ -1,1 +1,5 @@
-# Placeholder content for requirements.txt
+fastapi
+uvicorn
+httpx
+python-dotenv
+supabase
