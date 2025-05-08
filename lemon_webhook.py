@@ -14,3 +14,6 @@ async def lemon_webhook_handler(request: Request):
         await handle_subscription_created(payload)
 
     return {"status": "received"}
+from fastapi import FastAPI
+app = FastAPI()
+app.include_router(router)
