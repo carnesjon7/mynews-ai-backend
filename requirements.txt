@@ -1,1 +1,8 @@
-# Placeholder content for requirements.txt
+fastapi
+uvicorn
+httpx
+python-dotenv
+supabase
+flask
+flask==2.2.5
+gunicorn==21.2.0
