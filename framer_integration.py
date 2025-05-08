@@ -1,0 +1,1 @@
+# Placeholder content for framer_integration.py
