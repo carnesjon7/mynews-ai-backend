@@ -1,0 +1,1 @@
+# Placeholder for Google Workspace (Gmail, Calendar) integrations
