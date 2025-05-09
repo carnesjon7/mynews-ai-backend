@@ -1,2 +1,2 @@
-# AI Reformation Master Stack
-This repo contains all agents required to fully automate and secure The AI Reformation for decades to come.
+# Hera.Billing – Autonomous Subscription Manager
+Monitors due payments, escalates critical bills to Zeus.Overseer, and executes payments for non-critical expenses.
