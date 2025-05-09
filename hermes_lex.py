@@ -1,0 +1,1 @@
+# Already implemented – Legal manipulation agent (included again for completeness)

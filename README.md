@@ -1,8 +1,26 @@
-# Titan Cut Override Bundle
+# Erebus.Transparency Protocol
 
-Implements a 90-day 20% personal cut override for Titan:
-- Overrides default 10% cut
-- Automatically reverts to 10% after 90 days
-- Integrated into Plutus.Capital revenue distribution logic
+Purpose:
+- Monitor political corruption via OSINT (open source intelligence)
+- Identify potentially innocent incarcerated individuals using judicial pattern analysis
+- Submit clear, anonymous dossiers to:
+  - Government watchdogs (GAO, FEC, IG offices)
+  - Conviction Integrity Units
+  - Public defenders, nonprofits, media, and legal advocates
 
-This allows front-loaded capital recovery without long-term sacrifice.
+Safeguards:
+- No private inbox scraping or illegal intrusion
+- All info is from public records, testimony, legal filings, or transparency databases
+- Anonymous delivery with non-invasive follow-up (mail trackers, public forms, social updates)
+
+Modules:
+1. Political data scanning
+2. Corruption detection
+3. Wrongful conviction analysis
+4. Secure, anonymous submission
+5. Follow-up confirmation loop
+
+Outcome:
+- Corrupt structures exposed legally
+- Innocents aided through evidence
+- Full operational loop with zero trace to origin
