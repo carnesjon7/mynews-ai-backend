@@ -1,1 +1,1 @@
-# Overseer agent that governs all AI agents with strategic command
+# Central CEO-level strategic command agent

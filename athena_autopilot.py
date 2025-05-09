@@ -1,1 +1,1 @@
-# AI strategist that adjusts priorities based on Supabase metrics
+# Operates business functions and adapts strategy

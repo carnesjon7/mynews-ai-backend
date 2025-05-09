@@ -1,1 +1,1 @@
-# Detects niche gaps, builds and launches AI-driven businesses
+# Launches new AI-driven businesses
