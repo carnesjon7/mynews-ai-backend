@@ -9,7 +9,6 @@ gunicorn==21.2.0
 openai
 fastapi
 requests
-supabase-py
 pillow
 beautifulsoup4
 schedule
