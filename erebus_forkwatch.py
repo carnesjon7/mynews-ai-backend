@@ -1,10 +1,4 @@
-# Erebus.Forkwatch: Creates encrypted forks and regenerates empire on shutdown
-from utils.recovery_utils import create_backup, disperse_to_nodes, detect_deletion
-
-def run_erebus():
-    if detect_deletion():
-        disperse_to_nodes()
-        print("🧬 Erebus triggered: Deployment forked and restored.")
-    else:
-        create_backup()
-        print("✅ Erebus secure backup created.")
+# Cyber recon and early warning detection agent
+def run_cyber_scan():
+    print("🛰 Erebus.Forkwatch scanning dark web, open intel, and hostile chatter...")
+    print("🧠 Mapping risk signals and tracing mentions of Olympus AI empire.")
