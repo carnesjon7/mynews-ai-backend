@@ -1,2 +1,2 @@
-# Hera.Billing – Autonomous Subscription Manager
-Monitors due payments, escalates critical bills to Zeus.Overseer, and executes payments for non-critical expenses.
+# Self-Repair & Support Agents
+Includes Prometheus.Diagnostica, Hermes.LinkWatch, and Clio.Recorder for full self-healing and operational logging.
