@@ -1,7 +1,6 @@
-# Revenue Router: Handles profit distribution and milestone-based spending
+# Updated router logic with 10% reinvestment + 25% affiliate share
 import os
 
-# Simulated persistent state (replace with Supabase or database fetch in real system)
 state = {
     "total_earned": 0,
     "first_payout_complete": False,
@@ -30,10 +29,9 @@ def route_revenue(amount):
             logs.append(f"⏳ Waiting to reach $450 for upgrade fund. Current: ${state['total_earned']}")
             return logs
     else:
-        # Apply normal distribution
         affiliates = amount * 0.25
         owner = amount * 0.10
-        reinvest = amount * 0.05
+        reinvest = amount * 0.10  # Updated from 5% to 10%
         ops_fund = amount - (affiliates + owner + reinvest)
 
         logs.append(f"💸 Affiliate payout: ${affiliates:.2f}")
@@ -42,9 +40,3 @@ def route_revenue(amount):
         logs.append(f"⚙️ Operations fund: ${ops_fund:.2f}")
 
     return logs
-
-# Example trigger
-if __name__ == "__main__":
-    events = route_revenue(300)
-    for e in events:
-        print(e)
