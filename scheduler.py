@@ -1,1 +1,1 @@
-# Runs daily outreach cycle
+# Executes the full agent loop on a daily schedule
