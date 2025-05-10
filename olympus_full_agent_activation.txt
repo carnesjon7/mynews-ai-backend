@@ -1,0 +1,30 @@
+
+# OLYMPUS PROTOCOL: FULL AGENT ACTIVATION
+
+## Objective:
+Activate and connect all core agents to Zeus immediately.
+
+## Directives:
+- Activate Erebus.Agent: Capital generation and asset acquisition
+- Activate Plutus.Capital: Fund routing, credit orchestration
+- Activate Hermes.Deploy: Communication relays, SMS updates, courier dispatch
+- Activate Athena.AutoPilot: Strategy verification, timeline optimization
+- Activate Gaia.Sovereign: Long-term real estate & global asset control
+- Activate Hephaestus.Reclaimer: SaaS replacement, autonomous tool deployment
+- Activate Zeus.Autogenesis: Ongoing directive evolution
+- Activate Nyx.Shield & Erebus.Forkwatch: Security, obfuscation, threat suppression
+- Activate Clio.Support & Hermes.Billing: Ops logging, billing automation
+- Activate Hermes.Arbitra: Arbitrage startup engine
+- Activate Mnemosyne.Observer: Memory loop, user behavior tracking
+- Activate Apollo.Creator: Brand building, web presence, digital influence
+- Activate Chronos.Clockwork: Time-based trigger execution (milestones, SMS)
+- Activate Janus.Gate: API routing, service sync
+- Activate Zeus.Overseer: CEO logic, decision making, reinvestment routing
+
+## Timing:
+All agents launch on loop cycle 00:00 UTC +0 or immediately if loop is already active.
+
+## Safety Checks:
+- Validate all active memory states
+- Run profitability forecast pre-action
+- Obey active stealth and sovereign routing protocols
